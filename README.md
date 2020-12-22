@@ -7,9 +7,10 @@ I configured the dataset so I divided into 3 folders
 - train
 - valid
 - test
+
 each of the 3 folders contains the 2 folders 
-- with_mask
-- without_mask
+1. with_mask
+2. without_mask
 
 ### The link to dataset
 	
