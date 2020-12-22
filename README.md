@@ -17,4 +17,4 @@ each of the 3 folders contains the 2 folders
 	https://www.kaggle.com/omkargurav/face-mask-dataset
 
 ### Sample of input data
-![sample](https://github.com/AtharBagunaid/Face-mask-detector/1.png.jpg?raw=true)
+![sample](https://github.com/AtharBagunaid/Face-mask-detector/blob/main/1.png.jpg?raw=true)
