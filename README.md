@@ -16,9 +16,13 @@ data/train/with_mask/... contains 2,347 images with mask
 
 data/train/without_mask/... contains 2,347 images without mask
 
+	        --------------------
+
 data/valid/with_mask/... contains 261 images with mask
 
 data/valid/without_mask/... contains 261 images without mask
+
+		--------------------
 
 data/test/with_mask/... contains 1,117 images with mask 
 
