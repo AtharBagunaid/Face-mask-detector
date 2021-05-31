@@ -33,7 +33,6 @@ data/test/without_mask/... contains 1,117 images without mask
 	
 	https://www.kaggle.com/omkargurav/face-mask-dataset
 
-### Sample of input data:
 ![sample](https://github.com/AtharBagunaid/Face-mask-detector/blob/main/1.png.jpg?raw=true) 
 
 
